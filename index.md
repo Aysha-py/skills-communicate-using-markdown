@@ -6,3 +6,6 @@
 $ console.log("Hello, world!")
 This prints an "Hello, world!" to the console
 ```
+- [ ] Participate in Allinafrica
+- [ ] Pick an open source project
+- [ ] Contribute to open source projec
